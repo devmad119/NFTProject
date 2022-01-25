@@ -1,0 +1,10 @@
+USE Hardhat
+
+nftcollection: 0x5F66Af282c94920EaC5d9d34B54661761A727Ae1
+nftmarketplace: 0x4605fad4fe8f5414Ce2e0e2353326fdCFA52cca2
+https://testnet.bscscan.com/address/0x4605fad4fe8f5414Ce2e0e2353326fdCFA52cca2#code
+
+USE Truffle
+
+0x732C1cf4D5c0D90815E5d0D04E23Ca6bC7baDe60
+0x00732aA81cffdF8f3749306EfD74cB7239F8f653
