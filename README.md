@@ -150,7 +150,7 @@ The user can cancel an offer he did in the past if in the end he does not want t
 
 #### Buy
 
-A user can buy those NFT which someone else offered. This will require paying the requested price (the Ether will be transferred to the smart contract to be claimed later on).
+A user can buy those NFT which someone else offered. This will require paying the requested price (the Ether will be transferred to the smart contract to be claimed later on)
 
 #### Claim Funds
 
